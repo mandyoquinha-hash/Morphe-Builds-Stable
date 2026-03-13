@@ -1,6 +1,6 @@
 {
-  "version": "v9.10.52 (patches 1.19.0-dev.1.mpp)",
-  "versionCode": 20260269,
-  "zipUrl": "https://github.com/mandyoquinha-hash/YouTube-and-YouTube-Music-Morphe/releases/download/20260269/YouTube_Music_Material_arm64.zip",
+  "version": "v9.10.52 (patches 1.19.0-dev.2.mpp)",
+  "versionCode": 20260270,
+  "zipUrl": "https://github.com/mandyoquinha-hash/YouTube-and-YouTube-Music-Morphe/releases/download/20260270/YouTube_Music_Material_arm64.zip",
   "changelog": "https://raw.githubusercontent.com/MorpheApp/morphe-patcher/refs/heads/main/README.md"
 }
