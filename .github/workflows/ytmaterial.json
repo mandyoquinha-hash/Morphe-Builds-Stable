@@ -1,6 +1,6 @@
 {
-  "version": "v21.10.496 (patches 1.18.0.mpp)",
-  "versionCode": 20260267,
-  "zipUrl": "https://github.com/mandyoquinha-hash/YouTube-and-YouTube-Music-Morphe/releases/download/20260267/YouTube_Material.zip",
+  "version": "v21.10.500 (patches 1.19.0-dev.1.mpp)",
+  "versionCode": 20260269,
+  "zipUrl": "https://github.com/mandyoquinha-hash/YouTube-and-YouTube-Music-Morphe/releases/download/20260269/YouTube_Material.zip",
   "changelog": "https://raw.githubusercontent.com/MorpheApp/morphe-patcher/refs/heads/main/README.md"
 }
