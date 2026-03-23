@@ -1,6 +1,6 @@
 {
-  "version": "v9.11.54 (patches 1.21.1.mpp)",
-  "versionCode": 20260291,
-  "zipUrl": "https://github.com/mandyoquinha-hash/YouTube-and-YouTube-Music-Morphe/releases/download/20260291/YouTube_Music_Amoled_arm32.zip",
+  "version": "v9.11.54 (patches 1.22.0-dev.1.mpp)",
+  "versionCode": 20260292,
+  "zipUrl": "https://github.com/mandyoquinha-hash/YouTube-and-YouTube-Music-Morphe/releases/download/20260292/YouTube_Music_Amoled_arm32.zip",
   "changelog": "https://raw.githubusercontent.com/MorpheApp/morphe-patcher/refs/heads/main/README.md"
 }
