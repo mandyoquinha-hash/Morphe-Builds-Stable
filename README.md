@@ -1,8 +1,6 @@
- Morphe Builds (Stable)
+ Morphe Builds (Recommended)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mandyfinds)
-
-Morphe Builds
 
 Morphe is a variant of the Revanced Original focused on maintaining ad removal features while adding greater support for current versions of YouTube and YouTube Music.
 
