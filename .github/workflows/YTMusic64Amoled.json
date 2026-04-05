@@ -1,6 +1,6 @@
 {
-  "version": "v8.44.54 (patches 1.23.0-dev.4.mpp)",
-  "versionCode": 20260303,
-  "zipUrl": "https://github.com/mandyoquinha-hash/Morphe-Builds-Stable/releases/download/20260303/YT_Music_arm64.zip",
+  "version": "v8.44.54 (patches 1.23.0-dev.6.mpp)",
+  "versionCode": 20260306,
+  "zipUrl": "https://github.com/mandyoquinha-hash/Morphe-Builds-Stable/releases/download/20260306/YT_Music_arm64.zip",
   "changelog": "https://raw.githubusercontent.com/mandyoquinha-hash/Morphe-Builds-Stable/refs/heads/main/build.md"
 }
